@@ -27,4 +27,8 @@ Total EV 2M
 Penetration Rate 3.61%
 
 EV CAGR  93.91%
+
+Highest penetration rate goes to Goa state with 9.8%
+
+
  
