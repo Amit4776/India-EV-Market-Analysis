@@ -17,4 +17,14 @@
  Pib.gov.in
  
 Codebasics 
+
+##  Key insights
+
+Total Vehicle 57M
+
+Total EV 2M
+
+Penetration Rate 3.61%
+
+EV CAGR  93.91%
  
